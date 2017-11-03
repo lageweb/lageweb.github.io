@@ -903,5 +903,9 @@
       "y1": 0, 
       "y2": 0
     }
+  ],
+  "costumes": [
+    "Atlantis_00_Cost03",
+    "Monkey2_03_Cost00"
   ]
 }
